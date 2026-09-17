@@ -61,8 +61,8 @@ A full-stack security tool built on real AWS services (Cognito, DynamoDB, IAM, C
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lee-cloud369&show_icons=true&theme=dark&hide_border=true&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-cloud369&layout=compact&theme=dark&hide_border=true&title_color=FF8C00&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lee-cloud369&show_icons=true&theme=dark&hide_border=true&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lee-cloud369&layout=compact&theme=dark&hide_border=true&title_color=FF8C00&text_color=c9d1d9&bg_color=0d1117" />
 </p>
 
 <p align="center">
