@@ -66,7 +66,7 @@ A full-stack security tool built on real AWS services (Cognito, DynamoDB, IAM, C
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lee-cloud369&theme=dark&hide_border=true&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&background=0d1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lee-cloud369&theme=react-dark&hide_border=true&bg_color=0d1117&color=FF8C00&line=FF8C00&point=FF8C00" />
 </p>
 
 ---
@@ -84,4 +84,3 @@ A full-stack security tool built on real AWS services (Cognito, DynamoDB, IAM, C
 **Let's connect** — always open to conversations about cloud security and building in public.
 
 </div>
-
