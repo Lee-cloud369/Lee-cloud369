@@ -4,7 +4,7 @@
 
 ### Aspiring Cloud Security Engineer | AWS · Azure · GCP
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=Cloud+Security+Engineer+in+Training;AWS+%7C+IAM+%7C+CloudTrail+%7C+Threat+Detection;Learning+by+Building+Real+Cloud+Security+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=750&lines=Cloud+Security+Engineer+in+Training;AWS+%7C+IAM+%7C+CloudTrail+%7C+Threat+Detection;Learning+by+Building+Real+Cloud+Security+Projects" alt="Typing SVG" />
 
 <br/>
 
