@@ -22,8 +22,22 @@ I'm a third-year Cybersecurity undergraduate at Sri Sai Ranganathan Engineering 
 - 🔐 Focused on **Cloud Security** — primarily AWS, expanding into Azure & GCP
 - 🎯 Working toward **AWS Cloud Practitioner**, **CompTIA Security+**, and TryHackMe pathways
 - 🛠️ Hands-on with **Nmap**, **Wireshark**, and real AWS security tooling
-- 🚧 A few cloud security projects currently in progress — will be published here soon
+- 🚀 Currently building **AETHER ARAN IAM** — a full-stack cloud IAM security platform (see below)
 - 💬 Learning in public, one project at a time
+
+---
+
+### 🚀 Featured Project
+
+<a href="https://github.com/Lee-cloud369/IAM-project">
+<img src="https://raw.githubusercontent.com/Lee-cloud369/IAM-project/main/screenshots/privilege-escalation.png" width="100%" alt="AETHER ARAN IAM preview" />
+</a>
+
+**[AETHER ARAN IAM](https://github.com/Lee-cloud369/IAM-project)** — Cloud IAM Security Dashboard
+
+A full-stack security tool built on real AWS services (Cognito, DynamoDB, IAM, CloudTrail). Detects privilege escalation risks, audits credential hygiene against CIS benchmarks, flags least-privilege drift, and performs **safety-constrained automated remediation** — access keys are deactivated (never deleted), every action is authenticated and written to an audit trail. Backed by 18 automated tests and a completed 13-issue security review.
+
+`AWS` `Cognito` `DynamoDB` `FastAPI` `React` `IAM Security`
 
 ---
 
